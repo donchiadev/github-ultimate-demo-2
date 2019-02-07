@@ -1,5 +1,4 @@
 # Demo-2
 
-demo-2 project
-update from example branch
-linked update-branch locally and edited thsi file.
+This is the header of the README.md file
+Updates made on master on GitHub before rebase.
