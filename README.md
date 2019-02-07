@@ -2,3 +2,9 @@
 
 This is the header of the README.md file
 Updates made on master on GitHub before rebase.
+
+## Repository Purpose
+
+This will be a chenage that conflicts
+with whatever is on the remote side.
+This was edited locally.
